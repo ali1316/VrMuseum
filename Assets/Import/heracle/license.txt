@@ -1,0 +1,11 @@
+Model Information:
+* title:	Marble head of Herakles
+* source:	https://sketchfab.com/3d-models/marble-head-of-herakles-bac6ecaae6974d9597b71e028af53a7b
+* author:	danielpett (https://sketchfab.com/danielpett)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Marble head of Herakles" (https://sketchfab.com/3d-models/marble-head-of-herakles-bac6ecaae6974d9597b71e028af53a7b) by danielpett (https://sketchfab.com/danielpett) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

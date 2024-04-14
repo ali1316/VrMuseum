@@ -1,0 +1,11 @@
+Model Information:
+* title:	Marble relief: boy with horse.
+* source:	https://sketchfab.com/3d-models/marble-relief-boy-with-horse-326f60bcd8214b87a31c8edfbe43d173
+* author:	danielpett (https://sketchfab.com/danielpett)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Marble relief: boy with horse." (https://sketchfab.com/3d-models/marble-relief-boy-with-horse-326f60bcd8214b87a31c8edfbe43d173) by danielpett (https://sketchfab.com/danielpett) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

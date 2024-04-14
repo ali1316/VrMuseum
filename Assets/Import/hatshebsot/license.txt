@@ -1,0 +1,11 @@
+Model Information:
+* title:	Head and Shoulders of a Sphinx of Hatshepsut
+* source:	https://sketchfab.com/3d-models/head-and-shoulders-of-a-sphinx-of-hatshepsut-9c658269ede4450495fe71198562000e
+* author:	danielpett (https://sketchfab.com/danielpett)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Head and Shoulders of a Sphinx of Hatshepsut" (https://sketchfab.com/3d-models/head-and-shoulders-of-a-sphinx-of-hatshepsut-9c658269ede4450495fe71198562000e) by danielpett (https://sketchfab.com/danielpett) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

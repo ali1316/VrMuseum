@@ -1,0 +1,11 @@
+Model Information:
+* title:	Royal Vase Stand
+* source:	https://sketchfab.com/3d-models/royal-vase-stand-a72c93fcec284bb5922f41f8097553ea
+* author:	Modenese Gastone Interiors (https://sketchfab.com/modeneseinteriors)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Royal Vase Stand" (https://sketchfab.com/3d-models/royal-vase-stand-a72c93fcec284bb5922f41f8097553ea) by Modenese Gastone Interiors (https://sketchfab.com/modeneseinteriors) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

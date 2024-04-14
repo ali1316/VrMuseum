@@ -1,0 +1,11 @@
+Model Information:
+* title:	Amenemhat III Pyramidion, JE 35133
+* source:	https://sketchfab.com/3d-models/amenemhat-iii-pyramidion-je-35133-aa420d5832974b28912210981d6d534e
+* author:	pmanuelian (https://sketchfab.com/pmanuelian)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Amenemhat III Pyramidion, JE 35133" (https://sketchfab.com/3d-models/amenemhat-iii-pyramidion-je-35133-aa420d5832974b28912210981d6d534e) by pmanuelian (https://sketchfab.com/pmanuelian) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
